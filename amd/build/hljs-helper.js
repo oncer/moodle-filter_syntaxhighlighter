@@ -25,6 +25,7 @@ define({
 				pre.appendChild(code);
 			}
 		}
+		hljs.initHighlighting();
 	}
 });
 
